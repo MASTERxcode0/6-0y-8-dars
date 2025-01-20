@@ -1,6 +1,6 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
-import Todolist from "./pages/TodoList";
+import Todolist from "./pages/TodoList/Todolist";
 import List from "./pages/LIst/List";
 function App() {
   return (
